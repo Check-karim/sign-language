@@ -10,7 +10,7 @@ from my_functions import *
 import keyboard
 
 # Define the actions (signs) that will be recorded and stored in the dataset
-actions = np.array(['a', 'b'])
+actions = np.array(['Hello', 'How are you','have a good evening'])
 
 # Define the number of sequences and frames to be recorded for each action
 sequences = 30
